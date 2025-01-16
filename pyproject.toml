@@ -43,7 +43,8 @@ classifiers = [
 ]
 keywords = ["Viessmann", "OneBase", "CAN", "UDS", "DoIP", "Vitocal", "Vitocharge", "Vitoair", "Vitodens", "MQTT", "HTTP", "HomeAssistant"]
 dependencies = [
-  "onebase"
+  "onebase",
+  "open3e"
 ]
 [project.optional-dependencies]
 dev = ["pytest", "pytest-cov", "black==21.10b0"]
