@@ -1,4 +1,4 @@
-# ViessmannOneBaseServer
+# OneBaseServer
 
 # Dependencies
-[ViessmannOneBaseLocal](https://github.com/Philip-Wiege/ViessmannOneBaseLocal)
+[OneBaseLocal](https://github.com/Philip-WiegeOneBaseLocal)
